@@ -1,13 +1,14 @@
-# EventPulse - Quản trị viên
+# Bài kiểm tra giữa kỳ
 
-Dự án web độc lập cho workspace Quản trị viên trong EventPulse.
+- Họ và tên: Đỗ Xuân Lộc
+- Mã sinh viên: 2451170920
+- Thành viên nhóm: 5
+- Tên dự án của nhóm: BTL23 - EventPulse(`https://github.com/Do-Loc-tech/EventPulse.git`)
+- Nội dung bài giữa kỳ cá nhân: trình bày 1 trang trong `pages/` cá nhân
 
 ## Trang và chức năng
 
-- Quản lý loại vé: cập nhật giá, hạn mức và thời gian bán.
-- Quản lý người dùng: tìm kiếm và thay đổi trạng thái tài khoản.
-- Phân tích sự kiện: theo dõi số liệu và báo cáo.
-- Cấu hình và Audit: quản lý cấu hình và nhật ký hoạt động.
+- `pages/admin-event-analytics.html` - Phân tích sự kiện: theo dõi số liệu và báo cáo.
 
 ## Công nghệ
 
@@ -20,10 +21,12 @@ Dự án web độc lập cho workspace Quản trị viên trong EventPulse.
 - `js/api.js`: dữ liệu mô phỏng riêng của dự án.
 - `assets/`: biểu tượng giao diện.
 
-## Chạy dự án
+## Chạy trang
 
-- Chạy index.html
+- Chạy `pages/admin-event-analytics.html`
 
 ## Figma và video
 
-- Figma: design/figma-link.txt
+- Figma: `design/figma-link.txt`
+- Video trình bày: `https://youtu.be/qgY7gnFQ0Lo`
+- GitHub cá nhân: `https://github.com/Do-Loc-tech/Quan-tri-vien_EventPulse`
